@@ -1,0 +1,14 @@
+C:\Users\Kimberly\Documents\practicas\medidas\medidas\bin\Debug\net8.0\medidas.exe
+C:\Users\Kimberly\Documents\practicas\medidas\medidas\bin\Debug\net8.0\medidas.deps.json
+C:\Users\Kimberly\Documents\practicas\medidas\medidas\bin\Debug\net8.0\medidas.runtimeconfig.json
+C:\Users\Kimberly\Documents\practicas\medidas\medidas\bin\Debug\net8.0\medidas.dll
+C:\Users\Kimberly\Documents\practicas\medidas\medidas\bin\Debug\net8.0\medidas.pdb
+C:\Users\Kimberly\Documents\practicas\medidas\medidas\obj\Debug\net8.0\medidas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kimberly\Documents\practicas\medidas\medidas\obj\Debug\net8.0\medidas.AssemblyInfoInputs.cache
+C:\Users\Kimberly\Documents\practicas\medidas\medidas\obj\Debug\net8.0\medidas.AssemblyInfo.cs
+C:\Users\Kimberly\Documents\practicas\medidas\medidas\obj\Debug\net8.0\medidas.csproj.CoreCompileInputs.cache
+C:\Users\Kimberly\Documents\practicas\medidas\medidas\obj\Debug\net8.0\medidas.dll
+C:\Users\Kimberly\Documents\practicas\medidas\medidas\obj\Debug\net8.0\refint\medidas.dll
+C:\Users\Kimberly\Documents\practicas\medidas\medidas\obj\Debug\net8.0\medidas.pdb
+C:\Users\Kimberly\Documents\practicas\medidas\medidas\obj\Debug\net8.0\medidas.genruntimeconfig.cache
+C:\Users\Kimberly\Documents\practicas\medidas\medidas\obj\Debug\net8.0\ref\medidas.dll
