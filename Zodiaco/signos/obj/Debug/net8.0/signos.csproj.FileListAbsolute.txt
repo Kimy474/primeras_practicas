@@ -1,0 +1,14 @@
+C:\Users\Kimberly\Documents\practicas\Zodiaco\signos\bin\Debug\net8.0\signos.exe
+C:\Users\Kimberly\Documents\practicas\Zodiaco\signos\bin\Debug\net8.0\signos.deps.json
+C:\Users\Kimberly\Documents\practicas\Zodiaco\signos\bin\Debug\net8.0\signos.runtimeconfig.json
+C:\Users\Kimberly\Documents\practicas\Zodiaco\signos\bin\Debug\net8.0\signos.dll
+C:\Users\Kimberly\Documents\practicas\Zodiaco\signos\bin\Debug\net8.0\signos.pdb
+C:\Users\Kimberly\Documents\practicas\Zodiaco\signos\obj\Debug\net8.0\signos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kimberly\Documents\practicas\Zodiaco\signos\obj\Debug\net8.0\signos.AssemblyInfoInputs.cache
+C:\Users\Kimberly\Documents\practicas\Zodiaco\signos\obj\Debug\net8.0\signos.AssemblyInfo.cs
+C:\Users\Kimberly\Documents\practicas\Zodiaco\signos\obj\Debug\net8.0\signos.csproj.CoreCompileInputs.cache
+C:\Users\Kimberly\Documents\practicas\Zodiaco\signos\obj\Debug\net8.0\signos.dll
+C:\Users\Kimberly\Documents\practicas\Zodiaco\signos\obj\Debug\net8.0\refint\signos.dll
+C:\Users\Kimberly\Documents\practicas\Zodiaco\signos\obj\Debug\net8.0\signos.pdb
+C:\Users\Kimberly\Documents\practicas\Zodiaco\signos\obj\Debug\net8.0\signos.genruntimeconfig.cache
+C:\Users\Kimberly\Documents\practicas\Zodiaco\signos\obj\Debug\net8.0\ref\signos.dll
